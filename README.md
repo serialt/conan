@@ -1,10 +1,5 @@
 ## 酒厂
 
-参考：
-* https://www.zhihu.com/question/28513952
-* https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E7%BB%84%E7%BB%87
-
-
 ### 酒厂成员
 * Gin 琴酒
 * Rye 赤井秀一
@@ -19,3 +14,8 @@
 * Sherry 雪莉
 * Kir 基尔
 * Curaçao 库拉索
+
+
+参考：
+* https://www.zhihu.com/question/28513952
+* https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E7%BB%84%E7%BB%87
